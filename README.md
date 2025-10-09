@@ -1,5 +1,2 @@
-<div
-  class="bruno-fetch-button"
-  data-bruno-collection-url="https://github.com/bruno-collections/bruno-scim-api-collection.git"
-></div>
-<script src="https://fetch.usebruno.com/button.js"></script>
+[<img src="https://fetch.usebruno.com/button.svg" alt="Fetch in Bruno" style="width: 130px; height: 30px;" width="128" height="32">](https://fetch.usebruno.com?url=[https://linktoGitCollection.git](https://github.com/bruno-collections/bruno-scim-api-collection.git) "target=_blank rel=noopener noreferrer")
+
